@@ -1,55 +1,12 @@
-# 👋 Hi, I’m Anthony Bruno
+# Hey, I’m Anthony
 
-I'm an Engineering Manager and veteran Frontend Engineer based in Denver, CO. I build resilient, accessible, and human-centered web platforms — and lead teams that do the same.
+Engineering Manager and longtime Frontend Engineer based in Denver, CO. I build web platforms, lead product teams, and care deeply about accessibility, developer experience, and clear, maintainable systems.
 
-My work blends deep frontend experience with a strong focus on developer experience, technical strategy, and modern AI tooling. I care about shipping high-quality products, supporting thoughtful teams, and creating systems that scale — in impact, not just code.
+My recent work includes:
+- 🧠 A portfolio-as-conversation designed to share how I think, lead, and build: 🚧 Coming soon 🚧
+- 🛠 Shared dev config tooling: [`@brunotony/dev-config`](https://github.com/abruno/dev-config)
 
----
+I thrive in curious, mission-driven teams where engineering, empathy, and clarity come together.
 
-## 🔭 Currently Building
-
-- **Signal**: An AI-powered, production-grade portfolio chatbot built with OpenRouter, RAG, and MCP. It’s my sandbox for LLMs, orchestration, and thoughtful architecture.
-- **@brunotony/dev-config**: A shared config package for linting, formatting, logging, and commit rules — deployed via GitHub Actions + `semantic-release`
-
----
-
-## ⚙️ What I Value
-
-- Clear ownership and collaborative teams  
-- Thoughtful process over heroics  
-- DX, documentation, and systems that reduce friction  
-- Building tools that help people do better work  
-- Staying curious — always
-
----
-
-## 🌱 Currently Learning
-
-- Workflow orchestration with [Temporal](https://temporal.io)  
-- Scaling containerized systems with Docker + Fly.io  
-- Creating better DX and contributor tooling for internal teams
-
----
-
-## 🧠 Ask Me About
-
-- Frontend architecture, accessibility, and performance  
-- Scaling engineering practices at small product teams  
-- Leading with empathy (and a healthy dose of pragmatism)  
-- Building real things with LLMs
-
----
-
-## 💬 Let’s Connect
-
-- **Portfolio:** [abruno.net](https://abruno.net)  
-- **LinkedIn:** [linkedin.com/in/abruno](https://linkedin.com/in/abruno)  
-- **Email:** [anthonybruno@gmail.com](mailto:anthonybruno@gmail.com)  
-- **Location:** Denver, CO / Remote  
-- **Pronouns:** He/him
-
----
-
-## ⚡ Fun Fact
-
-Before I wrote my first line of React, I studied interactive media design at a tiny art school and built Flash websites for music festivals. These days, I design systems and lead teams, but I still believe the best work starts with empathy, iteration, and a solid CSS strategy.
+📫 [anthonybruno@gmail.com](mailto:anthonybruno@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/abruno) | [Portfolio](https://abruno.net)
