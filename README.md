@@ -1,12 +1,13 @@
-# Hey, I’m Anthony
+# Hey, I’m Anthony 👋
 
-Engineering Manager and longtime Frontend Engineer based in Denver, CO. I build web platforms, lead product teams, and care deeply about accessibility, developer experience, and clear, maintainable systems.
+I’m an Engineering Manager with 15+ years in frontend. My work has ranged from polished web platforms to SaaS products serving thousands and benefit systems reaching millions of employees. I’ve led projects for Google and Meta, and helped scale products all the way through acquisition.
+
+These days, I’m focused on developer experience and AI-powered workflows that cut friction, speed delivery, and give teams space to solve bigger problems.
 
 ### Featured projects
-- 📦 **[dev-config](https://github.com/anthonybruno/dev-config)** — Shared developer tooling to unify standards across teams (ESLint, Prettier, Commitlint, TypeScript configs, semantic-release)  
-- ✨ **[gpt-auto-commit](https://github.com/anthonybruno/gpt-auto-commit)** — AI-powered commit assistant that generates clear, conventional messages from git diffs  
 
-I thrive in curious, mission-driven teams where engineering, empathy, and clarity come together.
+- **[Signal](https://github.com/anthonybruno/signal)** — An interactive portfolio built as a multi-service agentic system with OpenRouter, RAG, and MCP.
+- **[dev-config](https://github.com/anthonybruno/dev-config)** — Shared tooling package for ESLint, Prettier, Commitlint, and TypeScript, published on npm.
+- **[gpt-auto-commit](https://github.com/anthonybruno/gpt-auto-commit)** — CLI to automatically generate commits with GPT-4o.
 
-📫 [anthonybruno@gmail.com](mailto:anthonybruno@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/brunotony) | [Portfolio](https://abruno.net)
+🔗 [LinkedIn](https://linkedin.com/in/brunotony) | [Homepage](https://abruno.net) | 📫 [anthonybruno@gmail.com](mailto:anthonybruno@gmail.com)
