@@ -1,8 +1,8 @@
 # Hey, I’m Anthony 👋
 
-I’m an Engineering Manager with 15+ years in frontend. My work has ranged from polished web platforms to SaaS products serving thousands and benefit systems reaching millions of employees. I’ve led projects for Google and Meta, and helped scale products all the way through acquisition.
+I’m an Engineering Manager with 15+ years in frontend, where I’ve gone from building polished web platforms to rebuilding SaaS products used by thousands and platforms that reach millions of employees. Along the way I’ve led projects for companies like Google and Meta and helped scale products to acquisition.
 
-These days, I’m focused on developer experience and AI-powered workflows that cut friction, speed delivery, and give teams space to solve bigger problems.
+These days, I’m focused on developer experience and AI-powered workflows that cut friction, speed delivery, and free teams to solve bigger problems.
 
 ### Featured projects
 
